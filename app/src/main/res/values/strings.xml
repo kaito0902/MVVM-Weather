@@ -1,3 +1,20 @@
 <resources>
+    <!--  スタート画面  -->
     <string name="app_name">MVVM-Weather</string>
+    <string name="start_login">ログイン</string>
+    <string name="start_register">新規登録</string>
+    <!--    <color name="purple_200">#00AEFF</color>-->
+    <!--    <color name="purple_500">#00C4FF</color>-->
+    <!--    <color name="purple_700">#0196C3</color>-->
+    <!--    <color name="teal_200">#FF03DAC5</color>-->
+    <!--    <color name="teal_700">#FF018786</color>-->
+    <!--    <color name="black">#FF000000</color>-->
+    <!--    <color name="white">#FFFFFFFF</color>-->
+
+    <!--    &lt;!&ndash; アイコンのバックグラウンドカラー &ndash;&gt;-->
+    <!--    <color name="icon_background">#00C4FF</color>-->
+    <!--    &lt;!&ndash; ステータスバーの色 &ndash;&gt;-->
+    <!--    <color name="status_bar">#EDF6F6</color>-->
+    <!--    &lt;!&ndash; リンクの色 &ndash;&gt;-->
+    <!--    <color name="link_text">#4A8FF7</color>-->
 </resources>
